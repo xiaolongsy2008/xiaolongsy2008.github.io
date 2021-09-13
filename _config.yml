@@ -1,6 +1,6 @@
 # Site
-name: 'CodeAhoy'
-description: 'CodeAhoy is an open source technical blog'
+name: 'XxlCoder'
+description: 'XxlCoder is technical blog of coder xxl'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicons/favicon.ico'
 baseurl: ''
@@ -24,12 +24,11 @@ plugins:
   
 authors:
     umer:
-      name:           Umer Mansoor
+      name:           Xu Xiaolong
       site:           https://www.codeahoy.com
       avatar:         /assets/images/avatar-umer.jpg
-      bio:            "Hi, I am Umer. I'm a software developer."
-      email:          codeahoy@gmail.com
-      twitter:        https://twitter.com/codeahoy
+      bio:            "Hi, I am XXL. I'm a software developer."
+      email:          xiaolongsy2008@163.com
 
  
 # Defaults
