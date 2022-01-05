@@ -1,12 +1,12 @@
 # Site
-name: 'XxlCoder'
-description: 'XxlCoder is technical blog of coder xxl'
+name: 'RiseAgainstGround'
+description: 'RiseAgainstGround is technical blog data sets to record the road pass by Coder XUXL With You!'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicons/favicon.ico'
 baseurl: ''
 url: ''
 disqus: ''
-email: 'codeahoy@gmail.com'
+email: 'xiaolongsy2008@163.com'
 mailchimp-list: 'https://codeahoy.us4.list-manage.com/subscribe/post?u=6b5fe80416251fea8d9dd7295&amp;id=ada86cf826'
 
 include: ["_pages"]
@@ -27,7 +27,7 @@ authors:
       name:           Xu Xiaolong
       site:           https://www.codeahoy.com
       avatar:         /assets/images/avatar-umer.jpg
-      bio:            "Hi, I am XXL. I'm a software developer."
+      bio:            "Hi guies, I am XuXL,a coder growing slowly."
       email:          xiaolongsy2008@163.com
 
  
