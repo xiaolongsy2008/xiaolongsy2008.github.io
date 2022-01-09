@@ -7,7 +7,6 @@ baseurl: ''
 url: ''
 disqus: ''
 email: 'xiaolongsy2008@163.com'
-mailchimp-list: 'https://codeahoy.us4.list-manage.com/subscribe/post?u=6b5fe80416251fea8d9dd7295&amp;id=ada86cf826'
 
 include: ["_pages"]
 # permalink: /:title/
@@ -27,7 +26,7 @@ authors:
       name:           Xu Xiaolong
       site:           https://www.codeahoy.com
       avatar:         /assets/images/avatar-umer.jpg
-      bio:            "Hi guies, I am XuXL,a coder growing slowly."
+      bio:            "Hi guies, I am XuXL,rising against with the ground to become an software engineer."
       email:          xiaolongsy2008@163.com
 
  
